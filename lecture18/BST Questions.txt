@@ -1,0 +1,5 @@
+1. Max, min, find
+2. add
+3. remove
+4. print in range(int sNo, int lNo)
+5. constructor (int[] sa)

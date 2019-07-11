@@ -1,0 +1,7 @@
+hasPath - DFS, BFS, DFSI
+bft, dft
+isConnected
+gcc
+isBipartite
+isAcyclic
+isTree
